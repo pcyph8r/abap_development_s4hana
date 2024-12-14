@@ -16,7 +16,7 @@ Due to various hardware and software innovations.
 As more efficent hardware are now availble at lower price,, and softwares are also evolving with time more computational power can be achieved. 
 
 ## HANA Magic Words :  
-- Hardware Innovations
+- [Hardware Innovations](url)
   - In Memory Database 
 - Software Innovations
    - Column Store & Row Store

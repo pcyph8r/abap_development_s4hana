@@ -24,10 +24,10 @@ A set of domain specific language and services for defining and consuming sement
   | Part of DDIC | Not part of DDIC |
 
 
-  | ABAP CDS | HANA CDS |
+  | CDS View | Classical DB View |
   |----------|----------|
-  | Developed by ABAP person | Developed by HANA native developers. |
-  | Open SQL used | In SAP HANA, only native SQL is used.  |
-  | On ABAP application server  | HANA XS |
-  | Supports ABAP application| Supports HANA app |
-  | Part of DDIC | Not part of DDIC |
+  | code push down follow execute code at db level | only join the table dont follow code push down |
+  | inner,outerjoin,association | only inner join |
+  | union is possible | union is not possible |
+  | parameters are allowed | parameters are not allowed |
+  | nested view | Not nested view |
